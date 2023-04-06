@@ -173,3 +173,4 @@ Hendri William T.  - hendriwilliam29@gmail.com
 [Github-Hendry-url]:https://github.com/hendrywilliam
 [LinkedIn-Hendry]:https://www.linkedin.com/in/hendri-william-tinambunan-4192431b5
 
+![rawatinap](https://user-images.githubusercontent.com/53558772/230295674-67a7dd34-4d8e-4623-8a91-733456970048.svg)
